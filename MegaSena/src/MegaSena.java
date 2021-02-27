@@ -20,5 +20,7 @@ public class MegaSena {
             System.out.println("Numero: " +number); //mostra o numero
             i++; //adiciona 1 na variavel i (contador) -> necessário para sair do loop
         }
+
+        //pra fazer um loop infinito posso usar o for(;;)
     }
 }
